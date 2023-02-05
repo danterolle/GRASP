@@ -1,0 +1,3 @@
+# Indirection
+
+Questo pattern utilizza l'indirizzamento per semplificare il codice e migliorare la manutenibilità. L'indirizzamento consiste nell'utilizzare un oggetto intermedio per gestire le interazioni tra due oggetti, in modo da rendere il codice più flessibile e facile da mantenere. Ad esempio, in un sistema di prenotazione alberghiera, potrebbe essere utilizzato l'indirizzamento per gestire le interazioni tra la classe "Sistema di prenotazione" e la classe "Sistema di pagamento", in modo che le modifiche al sistema di pagamento non influiscano sul funzionamento del sistema di prenotazione. Questo pattern aiuta a creare sistemi software che sono più flessibili e facili da mantenere nel tempo.
