@@ -1,0 +1,3 @@
+# High Cohesion
+
+Questo pattern mira a massimizzare la coerenza all'interno di un oggetto o componente per aumentare la sua affidabilità e facilità di comprensione. La coesione alta significa che tutti i membri di un oggetto o componente hanno una stretta relazione con il compito principale dell'oggetto o del componente. Ad esempio, in un sistema di prenotazione alberghiera, potrebbe essere implementata un'alta coesione nella classe "Camera", che gestisce solo le informazioni e le operazioni relative alla camera, come la disponibilità, il numero di persone e le tariffe. Questo pattern aiuta a creare sistemi software che sono più facili da capire e mantenere, poiché ogni oggetto o componente ha una responsabilità ben definita.
