@@ -1,0 +1,3 @@
+# Polymorphism
+
+Questo pattern utilizza il polimorfismo per semplificare il codice e migliorare la manutenibilità. Il polimorfismo consente di trattare oggetti simili in modo uniforme, indipendentemente dalle loro classi specifiche. Ad esempio, in un sistema di prenotazione alberghiera, potrebbe essere utilizzato il polimorfismo per gestire diversi tipi di camere, come singole, doppie e suite, in modo uniforme tramite un'unica interfaccia. Questo pattern rende il codice più flessibile e facile da mantenere, poiché le modifiche a un tipo di camera non richiedono modifiche al codice che gestisce le camere in generale.
