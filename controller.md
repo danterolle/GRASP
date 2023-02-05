@@ -1,0 +1,3 @@
+# Controller
+
+Questo pattern definisce un componente che gestisce le interazioni tra l'utente e il sistema, rendendo il sistema più facile da utilizzare e mantenere. Ad esempio, in un sistema di prenotazione alberghiera, potrebbe essere implementato un componente "Controller" che gestisca le interazioni tra l'utente e il sistema di prenotazione, rendendo il sistema più facile da utilizzare e mantenere. Il Controller può anche gestire la validazione dei dati di input, la traduzione delle azioni dell'utente in operazioni sul sistema e la gestione degli errori. Questo pattern aiuta a creare sistemi software che sono più facili da usare e mantenere, poiché le interazioni tra l'utente e il sistema sono gestite da un componente centralizzato.
