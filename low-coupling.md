@@ -1,0 +1,3 @@
+# Low Coupling
+
+Questo pattern mira a minimizzare le dipendenze tra i componenti di un sistema per aumentare la flessibilità e la manutenibilità. Il basso accoppiamento significa che i componenti sono interdipendenti il meno possibile, il che rende più facile apportare modifiche a un componente senza influire negativamente sugli altri. Ad esempio, in un sistema di prenotazione alberghiera, potrebbe essere implementato un basso accoppiamento tra la classe "Sistema di prenotazione" e la classe "Sistema di pagamento", in modo che le modifiche al sistema di pagamento non influiscano sul funzionamento del sistema di prenotazione. Questo pattern aiuta a creare sistemi software che sono più resistenti agli errori e più facili da mantenere nel tempo.
